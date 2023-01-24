@@ -51,7 +51,7 @@ public class Person {
         if (hasAge()) {
             age += 1;
         } else {
-            System.out.println("Возраст человека неизвестен!");
+            System.out.println("Возраст неизвестен");
         }
     }
 
